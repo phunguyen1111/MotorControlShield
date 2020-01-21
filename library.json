@@ -1,0 +1,19 @@
+{
+    "name": "Motor Control Shield v1 library",
+    "keywords": "motor, control, l293d, adafruit",
+    "description": "Arduino Library for the Adrafruit Motor Control Shield v1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/emilio1625/MotorControlShield.git"
+    },
+    "authors": [
+        {
+            "name": "Emilio Cabrera",
+            "email": "emilio1625@gmail.com",
+            "maintainer": true
+        }
+    ],
+    "version": "1.0.0",
+    "frameworks": "arduino",
+    "platforms": "*"
+}

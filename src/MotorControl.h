@@ -41,6 +41,7 @@ private:
     static void update_register();
 
 public:
+    MotorControl(); // Constructor mặc định
     MotorControl(byte motor_num);
     static void init();
     void forward();

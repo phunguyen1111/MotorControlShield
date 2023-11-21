@@ -2,6 +2,10 @@
 
 byte MotorControl::register_output;
 
+MotorControl::MotorControl() {
+   
+}
+
 MotorControl::MotorControl(byte motor)
 {
     switch (motor) {
